@@ -18,5 +18,7 @@ public class ScrollViewActivity extends Activity {
             s += "vogella.com ";
         }
         view.setText(s);
+
+        //tesetetsettestestsetsetsetsetsetsetsetsetsetsetsetset
     }
 }
