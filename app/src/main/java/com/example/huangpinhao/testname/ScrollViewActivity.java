@@ -2,7 +2,6 @@ package com.example.huangpinhao.testname;
 
 import android.app.Activity;
 import android.os.Bundle;
-import android.view.View;
 import android.widget.TextView;
 /**
  * Created by huangpinhao on 2015/7/1.
@@ -19,6 +18,8 @@ public class ScrollViewActivity extends Activity {
         }
         view.setText(s);
 
-        //tesetetsettestestsetsetsetsetsetsetsetsetsetsetsetset
+
+        //sssssssssss
+
     }
 }
